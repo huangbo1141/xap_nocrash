@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.7</string>
+	<string>1.9</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -54,7 +54,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>3</string>
 	<key>FacebookAppID</key>
 	<string>117147102290214</string>
 	<key>FacebookDisplayName</key>
@@ -85,9 +85,9 @@
 	<key>NSContactsUsageDescription</key>
 	<string>Contact acess permission is needed</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Location permission needed for Map</string>
+	<string>Xap App Access your location to know your items location and to fetch nearby items.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Location permission needed for Map</string>
+	<string>Xap App Access your location to know your items location and to fetch nearby items.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Microphone acess permission is needed</string>
 	<key>NSMotionUsageDescription</key>
