@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.423249"
+            timestampString = "537980492.268737"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "489"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.423908"
+            timestampString = "537980492.268859"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "502"
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.424563"
+            timestampString = "537980492.2689739"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "499"
@@ -58,7 +58,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.424975"
+            timestampString = "537980492.26905"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "46"
@@ -106,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.425502"
+            timestampString = "537980492.269169"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "389"
@@ -154,7 +154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/ViewController/Home/HomeViewController.swift"
-            timestampString = "533839344.443316"
+            timestampString = "538060045.167186"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "189"
@@ -474,7 +474,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/ViewController/Post/PostItemViewController.swift"
-            timestampString = "534090803.519996"
+            timestampString = "537980492.269621"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "80"
@@ -602,7 +602,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/ViewController/Landing/SignInViewController.swift"
-            timestampString = "533228469.656924"
+            timestampString = "537980492.269806"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "68"
@@ -633,13 +633,13 @@
                   symbolName = "static XAP.Item.fetchRequestForFilter(forUserId: Swift.Int, title: Swift.String, distance: XAP.Distance, minPrice: Swift.Int, maxPrice: Swift.Int, date: Foundation.Date, isShippable: Swift.Bool, isAcceptableTrade: Swift.Bool, sortBy: XAP.SortBy) -&gt; __ObjC.NSFetchRequest&lt;XAP.Item&gt;"
                   moduleName = "XAP"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/q/Documents/HGC/201712/xap/XAP_iOS/XAP/CoreData/Item.swift"
-                  timestampString = "533919586.962149"
+                  urlString = "file:///Users/q/Documents/HGC/201801/misissipi/no_crash2/xap/XAP/CoreData/Item.swift"
+                  timestampString = "537370221.2204829"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "66"
                   endingLineNumber = "66"
-                  offsetFromSymbolStart = "90">
+                  offsetFromSymbolStart = "80">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -648,13 +648,13 @@
                   symbolName = "closure #1 (__ObjC.NSFetchRequest&lt;XAP.Item&gt;) -&gt; () in static XAP.Item.fetchRequestForFilter(forUserId: Swift.Int, title: Swift.String, distance: XAP.Distance, minPrice: Swift.Int, maxPrice: Swift.Int, date: Foundation.Date, isShippable: Swift.Bool, isAcceptableTrade: Swift.Bool, sortBy: XAP.SortBy) -&gt; __ObjC.NSFetchRequest&lt;XAP.Item&gt;"
                   moduleName = "XAP"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/q/Documents/HGC/201712/xap/XAP_iOS/XAP/CoreData/Item.swift"
-                  timestampString = "533919586.965814"
+                  urlString = "file:///Users/q/Documents/HGC/201801/misissipi/no_crash2/xap/XAP/CoreData/Item.swift"
+                  timestampString = "537370221.222968"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "67"
                   endingLineNumber = "67"
-                  offsetFromSymbolStart = "118">
+                  offsetFromSymbolStart = "92">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -666,7 +666,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.427148"
+            timestampString = "537980492.269882"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "310"
@@ -906,7 +906,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.428463"
+            timestampString = "537980492.270173"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "328"
@@ -938,7 +938,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/Model/APIManager.swift"
-            timestampString = "533912172.429125"
+            timestampString = "537980492.270249"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "44"
@@ -970,7 +970,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/ViewController/Post/PostItemViewController.swift"
-            timestampString = "534090803.521426"
+            timestampString = "537980492.270327"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "179"
@@ -985,13 +985,13 @@
                   symbolName = "XAP.PostItemViewController.listItemButtonTapped(Any) -&gt; ()"
                   moduleName = "XAP"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/q/Documents/HGC/201712/xap/XAP_iOS/XAP/ViewController/Post/PostItemViewController.swift"
-                  timestampString = "533919587.06217"
+                  urlString = "file:///Users/q/Documents/HGC/201801/misissipi/no_crash2/xap/XAP/ViewController/Post/PostItemViewController.swift"
+                  timestampString = "537370221.284165"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "176"
-                  endingLineNumber = "176"
-                  offsetFromSymbolStart = "1493">
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "1256">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1000,13 +1000,13 @@
                   symbolName = "closure #2 (RxSwift.Event&lt;()&gt;) -&gt; () in XAP.PostItemViewController.listItemButtonTapped(Any) -&gt; ()"
                   moduleName = "XAP"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/q/Documents/HGC/201712/xap/XAP_iOS/XAP/ViewController/Post/PostItemViewController.swift"
-                  timestampString = "533919587.065776"
+                  urlString = "file:///Users/q/Documents/HGC/201801/misissipi/no_crash2/xap/XAP/ViewController/Post/PostItemViewController.swift"
+                  timestampString = "537370221.286393"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "176"
-                  endingLineNumber = "176"
-                  offsetFromSymbolStart = "32">
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "40">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1018,7 +1018,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XAP/ViewController/Post/PostItemViewController.swift"
-            timestampString = "534090803.522179"
+            timestampString = "537980492.270382"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "178"
@@ -1056,6 +1056,38 @@
             startingLineNumber = "37"
             endingLineNumber = "37"
             landmarkName = "listItem()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XAP/ViewController/Chat/ViewModel/ChattingViewModel.swift"
+            timestampString = "537370108.735754"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "sendChat(message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XAP/Model/APIManager.swift"
+            timestampString = "537980492.270491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
+            landmarkName = "sendChat(itemId:fromId:toId:message:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

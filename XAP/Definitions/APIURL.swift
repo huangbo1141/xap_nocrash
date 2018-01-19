@@ -12,8 +12,8 @@ import Alamofire
 struct APIURL {
     let path:String
     
-    static let endPoint = "http://82.223.19.247/xap/api"
-    static let dataPoint = "http://82.223.19.247/xap"
+    static let endPoint = "http://94.76.218.168/xap/api"
+    static let dataPoint = "http://94.76.218.168/xap"
 //    static let endPoint = "http://192.168.0.198/xap/api"
 //    static let dataPoint = "http://192.168.0.198/xap"
     

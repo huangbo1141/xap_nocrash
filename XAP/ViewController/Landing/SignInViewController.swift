@@ -175,7 +175,7 @@ class SignInViewController: UIViewController {
     func callFunc(){
         let hud = showActivityHUDTopMost()
         let to:String = registerEmailTextField.text!
-        let body:String = "<a href='http://82.223.19.247/xap/api/signup_confirm.php?token=" + String(AppContext.shared.currentUserID) + "'>Please click this link for confirm</a>"
+        let body:String = "<a href='http://94.76.218.168/xap/api/signup_confirm.php?token=" + String(AppContext.shared.currentUserID) + "'>Please click this link for confirm</a>"
         //        APIManager.default.callFunc1(to:to,body:"",subject:"Welcome to sign up")
         //            .subscribe { [weak self] evt in
         //                hud.hide(animated: true)
@@ -196,7 +196,7 @@ class SignInViewController: UIViewController {
         data["to"] = to
         data["body"] = body
         data["subject"] = "Welcome Sign up"
-        let serverurl = "http://82.223.19.247/webservice/include/test.php";
+        let serverurl = "http://94.76.218.168/webservice/include/test.php";
         let manager = NetworkParser.sharedManager()
         
         manager?.callNetwork(serverurl, data: data, withCompletionBlock: { (dict, error) in

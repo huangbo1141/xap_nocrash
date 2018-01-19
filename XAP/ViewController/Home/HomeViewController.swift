@@ -305,6 +305,7 @@ class HomeViewController: UIViewController {
                 self.refresh()
             }, onFail: { (locationError, location) -> (Void) in
                 
+                self.refresh()
                 print("Location monitoring failed due to an error \(locationError)")
                 
             })

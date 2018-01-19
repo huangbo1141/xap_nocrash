@@ -429,7 +429,7 @@ class APIManager:BaseAPIManager {
                               "body": body,
                               "subject": "Email Verification",
                               "from_name": "XAP Support"]
-                return self.post(url: "http://82.223.19.247/webservice/include/test.php", parameters: params)
+                return self.post(url: "http://94.76.218.168/webservice/include/test.php", parameters: params)
             }
             .map { json in
                 if json["result"].intValue == 0 {
@@ -496,7 +496,7 @@ class APIManager:BaseAPIManager {
                               "body": body,
                               "subject": "Recover Password",
                               "from_name": "XAP Support"]
-                return self.post(url: "http://82.223.19.247/webservice/include/test.php", parameters: params)
+                return self.post(url: "http://94.76.218.168/webservice/include/test.php", parameters: params)
             }
             .map { json in
                 if json["result"].intValue == 0 {
